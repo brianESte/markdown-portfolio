@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Brian Stephenson
+## this is a test page for the markdown-portfolio training course
