@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+One of my main projects revolves around reducing the "crunchiness" of the DnD [Hero System](https://en.wikipedia.org/wiki/Hero_System).
