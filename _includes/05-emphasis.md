@@ -1,0 +1,5 @@
+- Multidisciplinary _ooo_ *aaa*
+- _some_ Python experience *yes*
+- _some_ HTML, CSS, PHP experience *_web design_*
+- Willing to **learn** new things
+- also willing to _play_ with **text accents**
